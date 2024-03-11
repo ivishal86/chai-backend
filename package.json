@@ -1,0 +1,16 @@
+{
+  "name": "chaiandback",
+  "version": "1.0.0",
+  "description": "anything but i have to get a job.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Vishal Gwala",
+  "license": "ISC"
+}
